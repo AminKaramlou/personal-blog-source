@@ -18,6 +18,7 @@ nav:
   about: /about/
   articles: /archives/
   projects: projects_url
+    search: /search/
 
 
 # Links to your social media accounts.
@@ -138,7 +139,7 @@ open_graph:
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: true
-  shortname: aminkaramlou.disqus.com
+  shortname: aminkaramlou
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
