@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: A Meets B
+subtitle: "Amin Karamlou's blog"
+description: 'A blog about TCS'
 keywords:
-author: John Doe
+author: Amin Karamlou
 language: en
-timezone: ''
+timezone: 'Europe/London'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.aminkaramlou.github.io/blog
-root: /
+url: https://aminkaramlou.github.io/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
