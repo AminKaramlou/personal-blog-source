@@ -4,8 +4,12 @@
 
 # Site
 title: A Meets B
-subtitle: "Amin Karamlou's blog"
-description: 'A blog about TCS'
+subtitle: "Amin Karamlou's personal website"
+description: "I am a PhD student under the supervision of Professor Samson Abramsky at the University of Oxford. 
+I'm broadly interested in Quantum Computing and Theoretical Computer Science, especially the applications of logic within
+these fields. Prior to coming to Oxford I spent a year in the US as a Fulbright scholar based at UT Austin.
+I also attended some workshops at UC Berkeley's Simon's Institute during this year. Even Before that, I was a researcher at 
+Imperial College London where I also received my MEng degree in Computing from."
 keywords:
 author: Amin Karamlou
 language: en
@@ -13,8 +17,8 @@ timezone: 'Europe/London'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://aminkaramlou.github.io/blog
-root: /blog/
+url: https://aminkaramlou.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -77,7 +81,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## Use post's date for updated date unless set in front-matter
-use_date_for_updated: false
+udpate_option: date
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -99,5 +103,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/AminKaramlou/blog
+  repo: https://github.com/AminKaramlou/AminKaramlou.github.io
   branch: master
