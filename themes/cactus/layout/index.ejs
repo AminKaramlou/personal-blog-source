@@ -1,4 +1,17 @@
+  <% if (theme.logo && theme.logo.enabled) { %>
+    <% if (theme.gravatar && theme.gravatar.email && theme.logo.gravatar) { %>
+      <div id="logo" style="background-image: url(<%- gravatar(theme.gravatar.email) %>);"></div>
+    <% } else { %>
+      <div id="logo" style="background-image: url(<%- url_for(theme.logo.url) %>);"></div>
+    <% } %>
+  <% } %>
+  <div id="subtitle">
+  <span class="h1">   <% if (config.subtitle) { %>
+    <%- markdown(config.subtitle) %>
+  <% } %> </span>
+</div>
 <section id="about">
+
   <% if (config.description) { %>
     <%- markdown(config.description) %>
   <% } %>
@@ -54,16 +67,3 @@
     <%- partial('_partial/pagination') %>
   <% } %>
 </section>
-
-<% if (site.data.projects) { %>
-<section id="projects">
-  <span class="h1"><a href="<%- url_for(theme.projects_url) %>"><%= __('index.projects') %></a></span>
-  <ul class="project-list">
-    <% for(var obj in site.data.projects){ %>
-      <li class="project-item">
-        <a href="<%= site.data.projects[obj].url %>"><%= site.data.projects[obj].name %></a>: <%- markdown(site.data.projects[obj].desc) %>
-      </li>
-    <% } %>
-  </ul>
-</section>
-<% } %>
