@@ -20,7 +20,7 @@ Meetings usually consist of an informal presentation covering published or in pr
 | 15/11/2022   | [Daphne Wang](https://iris.ucl.ac.uk/iris/browse/profile?upi=DPWAN95) | Sheaf Approaches to Language Modelling
 | 22/11/2022   | [TBD]() | TBD
 | 29/11/2022   | [Simon Schmidt](https://www.math.ku.dk/english/staff/?pure=en%2Fpersons%2Fsimon-schmidt(361f395e-1658-4bc2-a133-9b05ff74833d).html) | TBD
-| 5/12/2022   | [TBD]() | TBD
+| 5/12/2022   | [Michael Zurel](https://mzurel.github.io) | TBD
 
 <!-- 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues). -->
