@@ -18,7 +18,7 @@ Meetings usually consist of an informal presentation covering published or in pr
 | 01/11/2022   | [Maximilian Doré](https://www.cs.ox.ac.uk/people/maximilian.dore/) | Searching for cubes with poset maps
 | 08/11/2022   | [Phokion Kolaitis](https://users.soe.ucsc.edu/~kolaitis/) | On the Expressive Power of Homomorphism Counts
 | 15/11/2022   | [Daphne Wang](https://iris.ucl.ac.uk/iris/browse/profile?upi=DPWAN95) | Sheaf Approaches to Language Modelling
-| 22/11/2022   | [TBD]() | TBD
+| 22/11/2022   | [Paolo Perrone](http://www.paoloperrone.org) | A general introduction to Markov categories 
 | 29/11/2022   | [Simon Schmidt](https://www.math.ku.dk/english/staff/?pure=en%2Fpersons%2Fsimon-schmidt(361f395e-1658-4bc2-a133-9b05ff74833d).html) | TBD
 | 5/12/2022   | [Michael Zurel](https://mzurel.github.io) | TBD
 
